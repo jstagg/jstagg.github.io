@@ -1,3 +1,6 @@
-layout: page
-title: "Test file in FILES"
-permalink: /files/
+name: File Test
+description: Test markdown syntax
+domain: jstagg.github.io
+url: "https://jstagg.github.io/files/"
+base-url: /files/
+markdown: GFM
