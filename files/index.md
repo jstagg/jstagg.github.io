@@ -1,7 +1,3 @@
-layout: page
-title: "FILE in FILES"
-permalink: /files/
-
 # H1
 ## H2
 ### H3
