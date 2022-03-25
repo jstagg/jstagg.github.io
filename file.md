@@ -1,5 +1,5 @@
 layout: page
-title: "FILE"
+title: "FILE in FILES"
 permalink: /files/
 
 # H1
